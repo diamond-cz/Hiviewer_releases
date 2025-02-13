@@ -4,7 +4,7 @@ HiViewer 看图工具，可支持多图片对比查看,多视频同步播放,并
 
 ## 主界面使用说明
 
-![Alt text](images/main_window.jpeg)
+![Alt text](images/main_window.png)
 
 ### 1.快捷键使用说明
 
@@ -47,7 +47,7 @@ HiViewer 看图工具，可支持多图片对比查看,多视频同步播放,并
 
 ## 看图子界面使用说明
 
-![Alt text](images/sub_image_viewer.jpeg)
+![Alt text](images/sub_image_viewer.png)
 
 ### 1. 快捷键使用说明
 
@@ -85,7 +85,7 @@ HiViewer 看图工具，可支持多图片对比查看,多视频同步播放,并
 
 ## 播放视频子界面使用说明
 
-![Alt text](images/sub_video_viewer.jpeg)
+![Alt text](images/sub_video_viewer.png)
 
 ### 1. 快捷键使用说明
 
@@ -116,7 +116,7 @@ HiViewer 看图工具，可支持多图片对比查看,多视频同步播放,并
 
 ## 批量重命名子界面使用说明
 
-![Alt text](images/sub_rename.jpeg)
+![Alt text](images/sub_rename.png)
 
 ### 1. 快捷键使用说明
 
